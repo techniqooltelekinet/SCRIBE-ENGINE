@@ -1,0 +1,16 @@
+{
+  "name": "scribe-engine",
+  "version": "1.0.0",
+  "description": "The first memory-bank of the Green Loom.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "The Architect",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.6"
+  }
+}
